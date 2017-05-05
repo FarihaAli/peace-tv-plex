@@ -1,0 +1,86 @@
+{
+  "PeaceTV" : "PeaceTV",
+  
+  "Videos"                    : "Videos",
+  "Videos for "               : "Videos for ",
+  "New Subscriptions Videos"  : "New Subscriptions Videos",
+  "New Videos"                : "New Videos",
+  "Recommendations"           : "Recommendations",
+  "Subscriptions"             : "Subscriptions",
+  "Play Lists"                : "Play Lists",
+  "Playlist"                  : "Playlist",
+  "Channels"                  : "Channels",
+  "My Account"                : "My Account",
+  "Search Videos"             : "Search Videos",
+  "Search Videos (long)"      : "Search Videos (long)",
+  
+  "Today"       : "Today",
+  "This Week"   : "This Week",
+  "This Month"  : "This Month",
+  "All Time"    : "All Time",
+  "Most Recent" : "Most Recent",
+  
+  "Favorites"   : "Favorites",
+  "Watch Later" : "Watch Later",
+  
+  "Most Viewed"     : "Most Viewed",
+  "Most Subscribed" : "Most Subscribed",
+  "Search Channels": "Search Channels",
+  
+  "Activity"  : "Activity",
+  "Preferences": "Preferences",
+  
+  "Top Rated": "Top Rated",
+  "Most Discussed": "Most Discussed",
+  
+  "Error": "Error",
+  "This feed does not contain any video"  : "This feed does not contain any video",
+  "This query did not return any result"  : "This query did not return any result",
+  "You have no subscriptions"             : "You have no subscriptions",
+  "This user has no subscriptions"        : "This user has no subscriptions",
+  
+  "seconds" : "seconds",
+  "minutes" : "minutes",
+  
+  "Next Page" : "Next Page",
+  
+  "Liked on "               : "Liked on ",
+  "Uploaded on "            : "Uploaded on ",
+  "Commented on "           : "Commented on ",
+  "Added to Favorites on "  : "Added to Favorites on ",
+  
+  "Unsubscribe"                               : "Unsubscribe",
+  "Unsubscribed"                              : "Unsubscribed",
+  "Successfully unsubscribed from channel: "  : "Successfully unsubscribed from channel: ",
+  "Failed to unsubscribe from channel: "      : "Failed to unsubscribe from channel: ",
+  
+  "Subscribe to channel"  : "Subscribe to channel",
+  "Subscribe to activity" : "Subscribe to activity",
+  "Subscribed"                  : "Subscribed",
+  "Successfully subscribed to " : "Successfully subscribed to ",
+  "Failed to subscribe to "     : "Failed to subscribe to ",
+  
+  " (Activity)" : " (Activity)",
+  " (Videos)"   : " (Videos)",
+  " (Channel)"  : " (Channel)",
+  
+  "Added to Watch Later"                              : "Added to Watch Later",
+  "Successfully added video to Watch Later playlist"  : "Successfully added video to Watch Later playlist",
+  "Failed to add video to Watch Later playlist"       : "Failed to add video to Watch Later playlist",
+  
+  "There are no comments"                 : "There are no comments",
+  "Be the first to comment on this video" : "Be the first to comment on this video",
+  
+  "Follow up to: "          : "Follow up to: ",
+  "No comment supplied!"    : "No comment supplied!",
+  "Comment posted OK"       : "Comment posted OK",
+  "Comment failed to post"  : "Comment failed to post",
+  
+  "Play Video"    : "Play Video",
+  "View Related"  : "View Related",
+  "Comments"      : "Comments",
+  "Post Comment"  : "Post Comment",
+  "Enter comment" : "Enter comment",
+  "Like"          : "Like",
+  "Dislike"       : "Dislike"
+}
